@@ -7,7 +7,7 @@ int main(void)
  * main - Entry point
  *
  * Return: Always 0 (Success)
-**/
+ */
 {
 	int i = '0';
 	int j = '0';
