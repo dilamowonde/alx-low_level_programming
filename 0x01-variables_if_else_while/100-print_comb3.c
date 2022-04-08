@@ -3,7 +3,10 @@
 * main - print numbers from 00 to 99. (* * Return: 0 on success
 */
 int main(void)
-/**main **/
+/**
+*main
+*returns 8
+ **/
 {
 	int i = '0';
 	int j = '0';
